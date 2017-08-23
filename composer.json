@@ -9,7 +9,7 @@
   },
     "autoload" : {
 	  "psr-4": {
-		"Ceive\\Data\\ValueAccessor": "src/"
+		"Ceive\\Data\\ValueAccessor\\": "src/"
 	  }
 	}
 }
